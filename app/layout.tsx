@@ -19,6 +19,11 @@ export const metadata: Metadata = {
   authors: [{ name: "XMA Agency" }],
   creator: "XMA Agency",
   publisher: "XMA Agency",
+  icons: {
+    icon: "/logo-white.svg",
+    shortcut: "/logo-white.svg",
+    apple: "/logo-white.svg",
+  },
   formatDetection: {
     email: false,
     address: false,
